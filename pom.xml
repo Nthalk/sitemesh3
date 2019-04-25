@@ -8,7 +8,7 @@
   </parent>
 
   <groupId>org.sitemesh</groupId>
-  <version>3.0.2.NTHALK</version>
+  <version>3.0.3.NTHALK</version>
   <packaging>pom</packaging>
   
   <!-- mvn versions:display-plugin-updates -->
